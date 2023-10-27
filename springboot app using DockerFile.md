@@ -1,5 +1,3 @@
-# deployment_portability-microservices
-
 <h2>🛠️ Running Spring boot app using Dockerfile</h2>
 
 <p>1. Create build of the microservice as jar</p>
